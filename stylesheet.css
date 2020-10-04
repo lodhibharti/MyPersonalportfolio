@@ -1,0 +1,23 @@
+body{
+    background-image:url("asset/image/photo-1499750310107-5fef28a66643.jpg");
+}
+h3,p{
+    color:white;
+    text-align: center;
+}
+h3{
+    margin-top:15%;
+}
+nav{
+    text-align: right;
+    background-color: black;
+    height:8%;
+    font-size:larger;
+    font-family: cursive;
+}
+a{
+    color:white;
+}
+img{
+    border-radius:100%;
+}
